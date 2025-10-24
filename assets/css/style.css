@@ -101,7 +101,6 @@ main {
 }
 
 .container6 {
-  width: 60%;
   display: flex;
   margin-top: 40px;
 }
@@ -112,6 +111,7 @@ main {
 
 .img3 {
   height: 180px;
+  margin-left: 10px;
 }
 
 .paragrafoPersona {
@@ -141,4 +141,18 @@ main {
 
 #container7 {
   padding: 6%;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+#container8 {
+  width: 49%;
+}
+
+#container9 h3 {
+  font-weight: bold;
+}
+
+.paragrafoFinale {
 }
