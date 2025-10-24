@@ -48,10 +48,97 @@ header ul li {
   justify-content: space-around;
 }
 
+#container3 {
+  display: flex;
+  align-items: center;
+  margin: 3%;
+}
+
+#container4 {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+  padding: 6%;
+}
+
+#container5 {
+  display: flex;
+  justify-content: space-between;
+  padding: 6%;
+}
+
 main {
 }
 
 #hr {
   margin: 0px;
   color: black;
+}
+
+.img {
+  border-radius: 25px;
+  margin-left: 3%;
+  margin-right: 1%;
+}
+
+.numeroCarta {
+  color: darkgrey;
+  font-size: 50px;
+}
+
+.paragrafoCarta {
+  display: flex;
+  align-items: center;
+}
+
+.paragrafoCarta2 {
+  font-weight: bold;
+}
+
+.nomePersona {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.container6 {
+  width: 60%;
+  display: flex;
+  margin-top: 40px;
+}
+
+.img2 {
+  border-radius: 30px;
+}
+
+.img3 {
+  height: 180px;
+}
+
+.paragrafoPersona {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.paragrafoPersona2 {
+  color: darkgrey;
+}
+
+.paragrafoPersona3 {
+  color: darkgrey;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.container6 span {
+  background-color: lightgrey;
+  border-radius: 20px;
+  padding: 5px;
+  color: darkgrey;
+}
+
+#container7 {
+  padding: 6%;
 }
