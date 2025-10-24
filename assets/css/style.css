@@ -1,0 +1,54 @@
+header {
+  background-color: #ffc017;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+}
+
+header ul {
+  display: flex;
+  list-style-type: none;
+}
+
+header ul li {
+  margin-left: 10px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+#getStarted {
+  color: white;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+#container h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+#container p {
+  margin-bottom: 20px;
+}
+
+#container button {
+  border-radius: 30px;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  cursor: pointer;
+}
+
+main {
+  align-items: center;
+  display: flex;
+  background-color: #ffc017;
+  justify-content: space-around;
+}
+
+#hr {
+  margin: 0px;
+  color: black;
+}
